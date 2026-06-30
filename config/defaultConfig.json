@@ -1,0 +1,43 @@
+{
+  "fields": [
+    {
+      "path": "candidate_name",
+      "from": "full_name"
+    },
+    {
+      "path": "primary_email",
+      "from": "emails[0]"
+    },
+    {
+      "path": "primary_phone",
+      "from": "phones[0]"
+    },
+    {
+      "path": "skills",
+      "from": "skills"
+    },
+    {
+      "path": "headline",
+      "from": "headline"
+    },
+    {
+      "path": "experience_years",
+      "from": "years_experience"
+    },
+    {
+      "path": "linkedin",
+      "from": "links.linkedin"
+    },
+    {
+      "path": "github",
+      "from": "links.github"
+    },
+    {
+  "path": "metadata",
+  "from": "metadata"
+}
+  ],
+  "includeConfidence": true,
+  "includeProvenance": true,
+  "onMissing": null
+}

@@ -1,0 +1,18 @@
+{
+  "Resume": {
+    "score": 0.90,
+    "reason": "Candidate provided official resume"
+  },
+  "LinkedIn": {
+    "score": 0.95,
+    "reason": "Professional profile with verified career history"
+  },
+  "GitHub": {
+    "score": 0.80,
+    "reason": "Public technical portfolio"
+  },
+  "Recruiter": {
+    "score": 0.60,
+    "reason": "Recruiter notes"
+  }
+}

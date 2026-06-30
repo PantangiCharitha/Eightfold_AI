@@ -1,0 +1,14 @@
+{
+  "name": "Charitha Pantangi",
+  "email": "charitha@gmail.com",
+  "phone": "+91 98765-43210",
+  "location": "Hyderabad, India",
+  "skills": ["ReactJS", "NodeJS", "Java"],
+  "education": [
+    {
+      "degree": "B.Tech CSE",
+      "institution": "Institute of Aeronautical Engineering",
+      "year": 2025
+    }
+  ]
+}

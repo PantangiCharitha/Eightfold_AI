@@ -1,0 +1,73 @@
+{
+  "candidate_name": "Pantangi Charitha",
+  "primary_email": "charitha@gmail.com",
+  "primary_phone": "+919876543210",
+  "skills": [
+    "React",
+    "Node.js",
+    "Java",
+    "JavaScript",
+    "TypeScript",
+    "Frontend",
+    "Backend"
+  ],
+  "headline": "Frontend Developer",
+  "experience_years": 2,
+  "linkedin": "https://linkedin.com/in/charitha",
+  "github": "https://github.com/charitha",
+  "metadata": {
+    "merged_sources": [
+      "Resume",
+      "LinkedIn",
+      "GitHub",
+      "Recruiter"
+    ],
+    "generated_at": "2026-06-30T13:02:37.795Z",
+    "pipeline_version": "1.0"
+  },
+  "overall_confidence": 0.82,
+  "provenance": [
+    {
+      "source": "Resume",
+      "fields": [
+        "name",
+        "email",
+        "phone",
+        "location",
+        "skills",
+        "education"
+      ],
+      "confidence": 0.9,
+      "method": "normalized_mapping"
+    },
+    {
+      "source": "LinkedIn",
+      "confidence": 0.95,
+      "method": "normalized_mapping"
+    },
+    {
+      "source": "GitHub",
+      "confidence": 0.8,
+      "method": "normalized_mapping"
+    },
+    {
+      "field": "communication",
+      "value": "Good",
+      "source": "Recruiter",
+      "confidence": 0.6,
+      "normalized": true
+    },
+    {
+      "field": "salary",
+      "value": "Negotiable",
+      "source": "Recruiter",
+      "confidence": 0.6,
+      "normalized": true
+    },
+    {
+      "source": "Recruiter",
+      "confidence": 0.6,
+      "method": "text_extraction"
+    }
+  ]
+}
